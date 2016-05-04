@@ -8,5 +8,10 @@ public static void display(string[] args){
 		system.out.println("Hello");
 
 	}
+	
+	public static void draw(string[] args){
+		system.out.println("simple");
+
+	}
 
 }
